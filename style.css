@@ -5,6 +5,16 @@
     text-transform: uppercase;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
+    color: #E4EEF1;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+header a:hover {
+    background-color: #4ba3cf;
 }
 
 body {
